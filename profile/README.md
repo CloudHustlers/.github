@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![](https://github.com/CloudHustlers/.github/blob/main/profile/assests/CLOUD%20HUSTLERS.png)]()
+# ARCADE SOLUTIONS
+## LEVEL 1 - [LINK](https://github.com/CloudHustlers/LEVEL_1_SEP)</br>
+## LEVEL 2 - [LINK](https://github.com/CloudHustlers/LEVEL-2-SEP)</br>
+## LEVEL 3 - [LINK](https://github.com/CloudHustlers/Level-3-GenAI)</br>
+____
+# STUDY JAM SOLUTIONS
+## Google Cloud Computing Foundations - [LINK](https://github.com/CloudHustlers/Google_Cloud_Computing_Foundations)</br>
+## Generative AI Arcade Game - [LINK](https://github.com/CloudHustlers/Level-3-GenAI)</br>
