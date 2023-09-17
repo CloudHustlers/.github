@@ -1,8 +1,6 @@
-[![](https://github.com/CloudHustlers/.github/blob/main/profile/assests/CLOUD%20HUSTLERS.png)]()
-
 <h3 align="center">
   
-  ![header](https://services.google.com/fh/files/misc/gcaf_header_image.png)
+  ![header](https://github.com/CloudHustlers/.github/blob/main/profile/assests/CLOUD%20HUSTLERS.png)
 
 ____
 
