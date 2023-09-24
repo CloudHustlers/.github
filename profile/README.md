@@ -10,9 +10,10 @@ ____
 <br>
 
 <p align="center">
-  <a href="https://github.com/CloudHustlers/LEVEL_1_SEP" target="_blank"> <img src="https://cdn.qwiklabs.com/l%2BYT6%2Fc6OCeTuu7o9MEEJo1zBIsSFtBmJrtGOMQVeyU%3D" width="20%" height="20%" border="10" hspace="50"/> </a>
-  <a href="https://github.com/CloudHustlers/LEVEL-2-SEP" target="_blank"> <img src="https://cdn.qwiklabs.com/QJ2qdRscLKI1drS%2BGc3lhqLjNJUsoLcwgY1cvurXGzM%3D" width="20%" height="20%" border="10" hspace="50"/> </a>
-  <a href="https://github.com/CloudHustlers/Level-3-GenAI" target="_blank"> <img src="https://cdn.qwiklabs.com/%2FPhZyxM0cNcWOnb4ExYMIM3Q3noh85i%2BNhKg%2FlT9Awg%3D" width="20%" height="20%" border="10" hspace="50"/> </a>
+  <a href="https://github.com/CloudHustlers/LEVEL_1_SEP" target="_blank"> <img src="https://cdn.qwiklabs.com/l%2BYT6%2Fc6OCeTuu7o9MEEJo1zBIsSFtBmJrtGOMQVeyU%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+  <a href="https://github.com/CloudHustlers/LEVEL-2-SEP" target="_blank"> <img src="https://cdn.qwiklabs.com/QJ2qdRscLKI1drS%2BGc3lhqLjNJUsoLcwgY1cvurXGzM%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+  <a href="https://github.com/CloudHustlers/Level-3-GenAI" target="_blank"> <img src="https://cdn.qwiklabs.com/%2FPhZyxM0cNcWOnb4ExYMIM3Q3noh85i%2BNhKg%2FlT9Awg%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
+  <a href="https://github.com/CloudHustlers/SEP-TRIVIA" target="_blank"> <img src="https://cdn.qwiklabs.com/tDIlnRU1bZOSqZPEsetFKPtYxRGWqtFrCKn3lJLcjbM%3D" width="20%" height="20%" border="10" hspace="20"/> </a>
 </p>
 
 ____
