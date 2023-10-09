@@ -4,7 +4,7 @@
 
 ____
 
-   <h1 font-weight="bold" align="center" >ARCADE SEP SOLUTION</h1>
+   <h1 font-weight="bold" align="center" >ARCADE OCT SOLUTION</h1>
 </h3>
 
 <br>
