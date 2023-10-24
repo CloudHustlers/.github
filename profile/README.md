@@ -1,6 +1,6 @@
 <h3 align="center">
   
-  ![header](https://github.com/CloudHustlers/.github/blob/main/profile/assests/CLOUD%20HUSTLERS.png)
+  ![header](https://api.pointscounter.me/servers/img/cloudhustlers)
 
 ____
 
